@@ -1,6 +1,6 @@
 # Criando o conteúdo do arquivo logica_base.md com o template em pseudocódigo
 
-template_logica = """
+
 # 🧠 Template de Lógica de Programação (Pseudocódigo)
 
 Início do Programa
