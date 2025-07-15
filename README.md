@@ -21,7 +21,6 @@ Desenvolver um programa que:
 ## 📁 Arquivos
 
 - `alunos.csv`: arquivo de entrada com 40 alunos
-- `exemplos/`: código exemplo em Python
 - `docs/desafio.md`: enunciado detalhado e critérios de avaliação
 
 
