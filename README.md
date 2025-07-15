@@ -22,9 +22,8 @@ Desenvolver um programa que:
 
 - `alunos.csv`: arquivo de entrada com 40 alunos
 - `exemplos/`: código exemplo em Python
-- `docs/desafio.md`: enunciado detalhado
-- `docs/avaliacao.md`: critérios de avaliação
-- `templates/logica_base.md`: estrutura de lógica de programação
+- `docs/desafio.md`: enunciado detalhado e critérios de avaliação
+
 
 ---
 
@@ -40,12 +39,9 @@ Desenvolver um programa que:
 
 Você pode:
 
-- Criar uma pasta dentro de `submissions/` com o nome do seu grupo
+- Criar uma pasta chamada `submissions/` com o nome do seu grupo
 - Colocar seu código e um `README` explicando como rodar
 
 ---
 
-## 📥 Exemplo de execução
 
-```bash
-python solucao_exemplo.py
