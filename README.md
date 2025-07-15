@@ -40,7 +40,7 @@ Você pode:
 
 - Criar uma pasta chamada `submissions/` com o nome do seu grupo
 - Colocar seu código e um `README` explicando como rodar
-
+- Enviar arquivo .zip para: rodrigues.igor.ir@gmail.com 
 ---
 
 
